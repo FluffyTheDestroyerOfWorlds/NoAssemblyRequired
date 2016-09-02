@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">No Assembly Required</string>
+    <string name="title1">Please select an image below for tools required.</string>
+    <string name="stools">The following tools are needed:</string>
+    <string name="sWrench">Wrench x 2</string>
+    <string name="sPhillips">Phillips Screwdriver</string>
+    <string name="sFlat">Flathead Screwdriver</string>
+    <string name="sHammer">Hammer</string>
+    <string name="sRealScrewdriver">A Real Screwdriver</string>
+    <string name="sBike">Bike</string>
+    <string name="sPicnic">Picnic Table</string>
+    <string name="sDresser">Dresser</string>
+</resources>
